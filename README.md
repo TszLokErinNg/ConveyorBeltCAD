@@ -13,7 +13,7 @@
 │   ├── ConveyorBeltv2.SLDDRW     # 2D Drawings
 │   └── [Individual Part Files]   # Frame brackets, rollers, linear bearings, and anchor blocks
 ├── LICENSE                       # MIT License
-├── README.md                     # Project documentation and setup guide
+└── README.md                     # Project documentation and setup guide
 ```
 ## 🔗 References
 1. Robotics & Mechatronics 2: 3D Modelling & Machine Design(udemy)
