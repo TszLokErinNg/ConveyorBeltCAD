@@ -1,7 +1,7 @@
 # ConveyorBeltCAD: A conveyor belt modelling exercise 
 
 ### Using Solidworks 3D, I have designed and completed a full CAD project in SolidWorks, including 3D part and assembly models, motion study demonstrations, detailed 2D drawings, exploded views, and STEP files for seamless model exchange and transfer.
-![Model](Images/3D_Models/demo.png)
+![Model](demo.png)
 
 ## 📂 File Structure
 
