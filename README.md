@@ -18,3 +18,4 @@
 ## 🔗 References
 1. Robotics & Mechatronics 2: 3D Modelling & Machine Design(udemy)
 2. [Understanding GD&T](https://www.youtube.com/watch?v=G7wnGeR_69k)
+3. [McMaster Carr](https://www.mcmaster.com)
