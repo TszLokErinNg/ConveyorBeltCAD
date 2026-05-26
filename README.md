@@ -6,6 +6,8 @@
 
 ```text
 ├── Images
+│   ├── 2D Drawings               # 2D component drafts with BOM
+│   ├── 3D Models                 # Solidworks 3D models 
 ├── STL Files
 ├── Videos
 ├── CAD Models.zip                # Main compressed file containing SolidWorks parts and assemblies
