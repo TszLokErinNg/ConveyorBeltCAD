@@ -7,7 +7,8 @@
 ```text
 ├── Images
 │   ├── 2D Drawings               # 2D component drafts with BOM
-│   ├── 3D Models                 # Solidworks 3D models 
+│   ├── 3D Models                 # Solidworks 3D models
+│   └── McMasterCARR              # Imported Components
 ├── STL Files
 ├── Videos
 ├── CAD Models.zip                # Main compressed file containing SolidWorks parts and assemblies
