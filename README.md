@@ -8,10 +8,11 @@
 ├── Images
 ├── STL Files
 ├── Videos
-├── CAD Models.zip               # Main compressed file containing SolidWorks parts and assemblies
+├── CAD Models.zip                # Main compressed file containing SolidWorks parts and assemblies
 │   ├── ConveyorBeltv2.SLDASM     # Top-level conveyor system assembly
 │   ├── ConveyorBeltv2.SLDDRW     # 2D Drawings
 │   └── [Individual Part Files]   # Frame brackets, rollers, linear bearings, and anchor blocks
+├── LICENSE                       # MIT License
 ├── README.md                     # Project documentation and setup guide
 ```
 ## 🔗 References
