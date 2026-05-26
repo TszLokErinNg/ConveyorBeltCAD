@@ -1,0 +1,60 @@
+Constrained Instances: 'beltholder-1', 'beltholder-1', 'DoublestackedFrame-1', 'DoublestackedFrame-1'
+Constraint Name: Width1
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'beltholder-1', 'beltholder-1', 'DoublestackedFrame-2', 'DoublestackedFrame-2'
+Constraint Name: Width2
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'SingestackedFrame-1', 'SingestackedFrame-1', 'DoublestackedFrame-1', 'DoublestackedFrame-1'
+Constraint Name: Width3
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'SingestackedFrame-3', 'SingestackedFrame-3', 'DoublestackedFrame-2', 'DoublestackedFrame-2'
+Constraint Name: Width4
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'SingestackedFrame-2', 'SingestackedFrame-2', 'DoublestackedFrame-1', 'DoublestackedFrame-1'
+Constraint Name: Width5
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'SingestackedFrame-4', 'SingestackedFrame-4', 'DoublestackedFrame-2', 'DoublestackedFrame-2'
+Constraint Name: Width6
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Shaft-1', 'Shaft-1', 'Steel Ball Bearing-1', 'Steel Ball Bearing-2'
+Constraint Name: Width7
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'BearingBracket-1', 'BearingBracket-1', 'FrameBracket-1', 'FrameBracket-2'
+Constraint Name: Width8
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Shaft-2', 'Shaft-2', 'Steel Ball Bearing-8', 'Steel Ball Bearing-7'
+Constraint Name: Width9
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'StepperBracket-1', 'FrameBracket-3', 'BearingBracket-2', 'BearingBracket-2'
+Constraint Name: Width10
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: '6627T64_Stepper Motor-1', '6627T64_Stepper Motor-1', 'M3Screw12mm-1', 'M3Screw12mm-4'
+Constraint Name: Width11
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Belt-1', 'Belt-1', 'DoublestackedFrame-1', 'DoublestackedFrame-2'
+Constraint Name: Width12
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Belt-1', 'Pallet-1'
+Constraint Name: Coincident89
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Pallet-1', 'Pallet-1', 'DoublestackedFrame-2', 'DoublestackedFrame-1'
+Constraint Name: Width13
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Pallet-1', 'Belt-1'
+Constraint Name: LimitDistance2
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------

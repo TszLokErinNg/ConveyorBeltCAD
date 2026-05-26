@@ -1,0 +1,2094 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="05/25/26||19:29:36" using="Simscape Multibody Link Version 7.4" from="SolidWorks 34.0.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="ConveyorBeltv2" uid="ConveyorBeltv2" version="9548">
+<AssemblyFile name="ConveyorBeltv2.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="Steel Ball Bearing-1" uid="Steel Ball Bearing-1" entityUid="Steel Ball Bearing*:*5972K91">
+<Transform>
+<Rotation>-5.8839831528752724e-16 0 1 0.98912168893900343 -0.14709957331839271 5.8252841948575736e-16 0.14709957331839271 0.98912168893900343 0</Rotation>
+<Translation>0.095699999999997287 -6.9469117432658009e-15 -0.32999999999999979</Translation>
+</Transform>
+</Instance>
+<Instance name="beltholder-1" uid="beltholder-1" entityUid="beltholder*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.0041999999999999035 0.0075000000000000882 0.29999999999999999</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="SingestackedFrame-2" uid="SingestackedFrame-2" entityUid="SingestackedFrame*:*5537T044">
+<Transform>
+<Rotation>-1 -7.2164496600635175e-15 0 0 -2.2390823609660299e-16 1 -7.1609385088322597e-15 1 2.2390823609660225e-16</Rotation>
+<Translation>0 -0.04199999999999994 -0.14640000000000009</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Diffuse r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Specular r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="SingestackedFrame-3" uid="SingestackedFrame-3" entityUid="SingestackedFrame*:*5537T044">
+<Transform>
+<Rotation>-1.0000000000000002 2.6090241078691179e-15 -7.4893835190297034e-16 -7.4893835190297034e-16 0 0.99999999999999989 2.6645352591003757e-15 1 0</Rotation>
+<Translation>0.10839999999999507 -0.041999999999998469 0.14640000000000011</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Diffuse r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Specular r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="SingestackedFrame-1" uid="SingestackedFrame-1" entityUid="SingestackedFrame*:*5537T044">
+<Transform>
+<Rotation>-1.0000000000000002 -6.9388939039072284e-15 0 0 3.6776137690708345e-16 -1 6.9944050551384862e-15 -1.0000000000000002 -3.677613769070832e-16</Rotation>
+<Translation>0 -0.042000000000000051 0.14639999999999997</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Diffuse r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Specular r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="SingestackedFrame-4" uid="SingestackedFrame-4" entityUid="SingestackedFrame*:*5537T044">
+<Transform>
+<Rotation>1 0 0 0 -3.6739403974420594e-16 -1 0 1 -3.6739403974420594e-16</Rotation>
+<Translation>0.10839999999999604 -0.041999999999998539 -0.14639999999999914</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Diffuse r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Specular r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="DoublestackedFrame-1" uid="DoublestackedFrame-1" grounded="true" entityUid="DoublestackedFrame*:*5537T031">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Diffuse r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Specular r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="DoublestackedFrame-2" uid="DoublestackedFrame-2" entityUid="DoublestackedFrame*:*5537T031">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.10839999999999503 1.3559536280034386e-15 0</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Diffuse r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Specular r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="BearingBracket-1" uid="BearingBracket-1" entityUid="BearingBracket*:*Default">
+<Transform>
+<Rotation>-4.5265620329239277e-16 0.99999999999999989 -4.1794478449830529e-16 0.98912168893900343 5.0921156777963675e-16 0.14709957331839341 0.14709957331839343 -3.4681271676197651e-16 -0.98912168893900332</Rotation>
+<Translation>0.0091999999999972798 -7.0021413532995484e-15 -0.32999999999999974</Translation>
+</Transform>
+</Instance>
+<Instance name="Shaft-1" uid="Shaft-1" entityUid="Shaft*:*Default">
+<Transform>
+<Rotation>-5.8784744113016152e-16 -1 3.3676496013496746e-16 0.97804358153933524 -6.4512239003791422e-16 -0.20840046211491373 0.20840046211491373 2.0686312936275999e-16 0.97804358153933524</Rotation>
+<Translation>0.15419999999999728 -6.9259619528260925e-15 -0.32999999999999979</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.9882352941176471" g="0.73725490196078436" b="0.51764705882352935" a="1"/>
+<Diffuse r="0.9882352941176471" g="0.73725490196078436" b="0.51764705882352935" a="1"/>
+<Specular r="0.49411764705882355" g="0.36862745098039218" b="0.25882352941176467" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Steel Ball Bearing-3" uid="Steel Ball Bearing-3" entityUid="Steel Ball Bearing*:*5972K91">
+<Transform>
+<Rotation>1.5598450113434984e-16 -1.4077874329932682e-15 1 -0.64062299136856948 0.76785557426509976 1.1809046855280596e-15 -0.76785557426509976 -0.64062299136856948 -7.8208742784025368e-16</Rotation>
+<Translation>0.12239999999999961 -6.8805770251714108e-15 -0.32999999999999985</Translation>
+</Transform>
+</Instance>
+<Instance name="Steel Ball Bearing-4" uid="Steel Ball Bearing-4" entityUid="Steel Ball Bearing*:*5972K91">
+<Transform>
+<Rotation>9.2812087057187929e-15 6.4337380812361212e-15 -1 0.82260173430976136 0.56861796200135351 1.1293077413618113e-14 0.56861796200135351 -0.82260173430976136 0</Rotation>
+<Translation>-0.014000000000000019 3.6561154207731133e-13 -0.3299999999999958</Translation>
+</Transform>
+</Instance>
+<Instance name="M5Screw14mm-1" uid="M5Screw14mm-1" entityUid="M5Screw14mm*:*91290A230">
+<Transform>
+<Rotation>0 -1.1844281727373061e-14 1 -1.1844281727373061e-14 1 1.1844281727373061e-14 -1 -1.1844281727373061e-14 0</Rotation>
+<Translation>0.12160000000000243 -0.010000000000003981 -0.28499999999999998</Translation>
+</Transform>
+</Instance>
+<Instance name="M5Screw14mm-2" uid="M5Screw14mm-2" entityUid="M5Screw14mm*:*91290A230">
+<Transform>
+<Rotation>0 -1.1844281727373061e-14 1 -1.1844281727373061e-14 1 1.1844281727373061e-14 -1 -1.1844281727373061e-14 0</Rotation>
+<Translation>0.12159999999999718 0.0099999999999960659 -0.28499999999999998</Translation>
+</Transform>
+</Instance>
+<Instance name="Steel Ball Bearing-2" uid="Steel Ball Bearing-2" entityUid="Steel Ball Bearing*:*5972K91">
+<Transform>
+<Rotation>-5.8839831528752724e-16 0 1 0.98912168893900343 -0.14709957331839271 5.8252841948575736e-16 0.14709957331839271 0.98912168893900343 0</Rotation>
+<Translation>0.012699999999997278 -7.0172603795597311e-15 -0.32999999999999974</Translation>
+</Transform>
+</Instance>
+<Instance name="FrameBracket-2" uid="FrameBracket-2" entityUid="FrameBracket*:*Default">
+<Transform>
+<Rotation>0 -7.3818020254332361e-16 -0.99999999999999967 -1.6653345369377348e-16 1 -7.381802025433245e-16 1 2.0816681711721685e-16 0</Rotation>
+<Translation>-0.0099999999999999586 -6.9099183850409793e-15 -0.29499999999999998</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="1" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="1" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="M5Screw14mm-3" uid="M5Screw14mm-3" entityUid="M5Screw14mm*:*91290A230">
+<Transform>
+<Rotation>1.04744440165294e-14 0 -1 0 1 0 1 0 1.04744440165294e-14</Rotation>
+<Translation>-0.013200000000002841 -0.010000000000006884 -0.28499999999999981</Translation>
+</Transform>
+</Instance>
+<Instance name="FrameBracket-1" uid="FrameBracket-1" entityUid="FrameBracket*:*Default">
+<Transform>
+<Rotation>0 1.1844281727373059e-14 0.99999999999999978 0 -0.99999999999999989 1.1844281727373057e-14 0.99999999999999989 0 0</Rotation>
+<Translation>0.11839999999999931 -3.9735646111702623e-15 -0.29499999999999998</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="1" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="1" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="M5Screw14mm-4" uid="M5Screw14mm-4" entityUid="M5Screw14mm*:*91290A230">
+<Transform>
+<Rotation>1.04744440165294e-14 0 -1 0 1 0 1 0 1.04744440165294e-14</Rotation>
+<Translation>-0.013200000000002836 0.0099999999999930925 -0.28499999999999981</Translation>
+</Transform>
+</Instance>
+<Instance name="Anchorblock-1" uid="Anchorblock-1" entityUid="Anchorblock*:*Default">
+<Transform>
+<Rotation>-3.4914813388431334e-15 0 1 0 1 0 -1 0 -3.4914813388431334e-15</Rotation>
+<Translation>0.11839999999999426 -5.4659293801410051e-15 -0.2300000000000004</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.99607843137254903" g="0.87058823529411766" b="0.76078431372549016" a="1"/>
+<Diffuse r="0.99607843137254903" g="0.87058823529411766" b="0.76078431372549016" a="1"/>
+<Specular r="0.49803921568627452" g="0.43529411764705883" b="0.38039215686274508" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="BearingBracket-2" uid="BearingBracket-2" entityUid="BearingBracket*:*Default">
+<Transform>
+<Rotation>0 -0.99999999999999989 5.2541742834123914e-16 0.6949377930052183 -3.2181791089502255e-16 -0.71906986020346864 0.71906986020346875 4.2307077137302153e-16 0.69493779300521819</Rotation>
+<Translation>0.099199999999995153 -6.8625865571029998e-15 0.32999999999999996</Translation>
+</Transform>
+</Instance>
+<Instance name="Steel Ball Bearing-7" uid="Steel Ball Bearing-7" entityUid="Steel Ball Bearing*:*5972K91">
+<Transform>
+<Rotation>6.2148708887084639e-16 6.0824417630471622e-16 -1 -0.81160039269049333 0.58421297707654318 -1.4905502435120261e-16 0.58421297707654318 0.81160039269049333 8.5673203474448406e-16</Rotation>
+<Translation>0.012699999999995154 -6.8910284764983227e-15 0.33000000000000002</Translation>
+</Transform>
+</Instance>
+<Instance name="Steel Ball Bearing-6" uid="Steel Ball Bearing-6" entityUid="Steel Ball Bearing*:*5972K91">
+<Transform>
+<Rotation>0 7.5640466222207728e-16 -1 -0.99962466425915042 -0.027395813636049954 0 -0.027395813636049954 0.99962466425915042 7.5510416737251448e-16</Rotation>
+<Translation>0.12189999999999983 -6.8769789750980161e-15 0.32999999999999996</Translation>
+</Transform>
+</Instance>
+<Instance name="M5Screw14mm-7" uid="M5Screw14mm-7" entityUid="M5Screw14mm*:*91290A230">
+<Transform>
+<Rotation>-3.4914813388431334e-15 0 1 0 1 0 -1 0 -3.4914813388431334e-15</Rotation>
+<Translation>0.12159999999999606 0.0099999999999932417 0.29249977403744626</Translation>
+</Transform>
+</Instance>
+<Instance name="M5Screw14mm-8" uid="M5Screw14mm-8" entityUid="M5Screw14mm*:*91290A230">
+<Transform>
+<Rotation>-3.4914813388431334e-15 0 1 0 1 0 -1 0 -3.4914813388431334e-15</Rotation>
+<Translation>0.12159999999999591 -0.010000000000005576 0.29249977403744626</Translation>
+</Transform>
+</Instance>
+<Instance name="6627T64_Stepper Motor-1" uid="6627T64_Stepper Motor-1" entityUid="6627T64_Stepper Motor*:*6627T64">
+<Transform>
+<Rotation>-1.9933108541434347e-16 3.4867036926134855e-16 -1 3.7470027081099033e-16 -1 -3.4867036926134875e-16 -1 -3.7470027081099033e-16 1.9933108541434335e-16</Rotation>
+<Translation>0.12658999999999751 -6.8693813968695256e-15 0.32999999999999996</Translation>
+</Transform>
+</Instance>
+<Instance name="StepperBracket-1" uid="StepperBracket-1" entityUid="StepperBracket*:*Default">
+<Transform>
+<Rotation>5.60712829814544e-16 0 -1 -1.5265566588595902e-16 1.0000000000000002 0 1.0000000000000002 1.5265566588595902e-16 5.607128298145441e-16</Rotation>
+<Translation>0.12589999999999746 -0.0025000000000068032 0.31749988701872334</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="1" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="1" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="M3Screw12mm-2" uid="M3Screw12mm-2" entityUid="M3Screw12mm*:*91290A117">
+<Transform>
+<Rotation>1.04744440165294e-14 0 -1 0 1 0 1 0 1.04744440165294e-14</Rotation>
+<Translation>0.12290000000000058 0.015499999999993248 0.31449999999999867</Translation>
+</Transform>
+</Instance>
+<Instance name="M3Screw12mm-1" uid="M3Screw12mm-1" entityUid="M3Screw12mm*:*91290A117">
+<Transform>
+<Rotation>1.04744440165294e-14 0 -1 0 1 0 1 0 1.04744440165294e-14</Rotation>
+<Translation>0.1229000000000009 -0.015500000000006779 0.34549999999999864</Translation>
+</Transform>
+</Instance>
+<Instance name="M3Screw12mm-3" uid="M3Screw12mm-3" entityUid="M3Screw12mm*:*91290A117">
+<Transform>
+<Rotation>1.04744440165294e-14 0 -1 0 1 0 1 0 1.04744440165294e-14</Rotation>
+<Translation>0.12290000000000058 -0.015500000000006824 0.31449999999999867</Translation>
+</Transform>
+</Instance>
+<Instance name="M3Screw12mm-4" uid="M3Screw12mm-4" entityUid="M3Screw12mm*:*91290A117">
+<Transform>
+<Rotation>5.607128298145443e-16 0 -1 0 1 0 1 0 5.607128298145443e-16</Rotation>
+<Translation>0.12289999999999747 0.015499999999993198 0.34549999999999992</Translation>
+</Transform>
+</Instance>
+<Instance name="Shaft-2" uid="Shaft-2" entityUid="Shaft*:*Default">
+<Transform>
+<Rotation>1.3315097607867551e-16 -1 0 0.99948849695198072 1.3577558957232894e-16 0.031980376180878664 -0.031980376180878664 0 0.99948849695198072</Rotation>
+<Translation>0.15419999999999756 -6.8820420967026787e-15 0.32999999999999996</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.9882352941176471" g="0.73725490196078436" b="0.51764705882352935" a="1"/>
+<Diffuse r="0.9882352941176471" g="0.73725490196078436" b="0.51764705882352935" a="1"/>
+<Specular r="0.49411764705882355" g="0.36862745098039218" b="0.25882352941176467" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Steel Ball Bearing-8" uid="Steel Ball Bearing-8" entityUid="Steel Ball Bearing*:*5972K91">
+<Transform>
+<Rotation>-4.2070308279948641e-16 2.0133497850493691e-16 -1 0.47651448785678535 -0.87916661837366505 -3.7747810625248769e-16 -0.87916661837366505 -0.47651448785678535 2.7392907247426338e-16</Rotation>
+<Translation>0.09569999999999515 -6.8501599481123869e-15 0.32999999999999996</Translation>
+</Transform>
+</Instance>
+<Instance name="Belt-1" uid="Belt-1" entityUid="Belt*:*Default">
+<Transform>
+<Rotation>-3.4914813388431334e-15 0 1 0 1 0 -1 0 -3.4914813388431334e-15</Rotation>
+<Translation>0.014199999999994968 -6.8208332505313375e-15 0</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.50196078431372548" g="1" b="0.50196078431372548" a="1"/>
+<Diffuse r="0.50196078431372548" g="1" b="0.50196078431372548" a="1"/>
+<Specular r="0.25098039215686274" g="0.5" b="0.25098039215686274" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="M5Screw35mm-2" uid="M5Screw35mm-2" entityUid="M5Screw35mm*:*91290A195">
+<Transform>
+<Rotation>-3.4914813388431334e-15 0 1 0 1 0 -1 0 -3.4914813388431334e-15</Rotation>
+<Translation>0.13209999999999655 -0.010000000000005463 -0.23000000000000045</Translation>
+</Transform>
+</Instance>
+<Instance name="M5Screw35mm-3" uid="M5Screw35mm-3" entityUid="M5Screw35mm*:*91290A195">
+<Transform>
+<Rotation>1.04744440165294e-14 6.9829626776862667e-15 1 0 -1 6.9829626776862667e-15 1 0 -1.04744440165294e-14</Rotation>
+<Translation>0.13209999999999494 0.0099999999999954327 -0.23000000000000145</Translation>
+</Transform>
+</Instance>
+<Instance name="FrameBracket-3" uid="FrameBracket-3" entityUid="FrameBracket*:*Default">
+<Transform>
+<Rotation>1.04744440165294e-14 0 -1 6.9829626776862667e-15 -1 0 -1 -6.9829626776862667e-15 -1.04744440165294e-14</Rotation>
+<Translation>-0.010000000000013502 -1.0059563505875512e-14 0.29499999999999782</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="1" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="1" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Steel Ball Bearing-5" uid="Steel Ball Bearing-5" entityUid="Steel Ball Bearing*:*5972K91">
+<Transform>
+<Rotation>0 3.1845097895148188e-16 -1 -0.96812632792627462 -0.25046239872680992 0 -0.25046239872680992 0.96812632792627462 3.2582347030474831e-16</Rotation>
+<Translation>-0.014000000000011115 -6.8627454251055076e-15 0.32999999999999985</Translation>
+</Transform>
+</Instance>
+<Instance name="M5Screw14mm-5" uid="M5Screw14mm-5" entityUid="M5Screw14mm*:*91290A230">
+<Transform>
+<Rotation>-1.04744440165294e-14 0 -1 0 1 0 1 0 -1.04744440165294e-14</Rotation>
+<Translation>-0.01320000000000288 0.0099999999999899856 0.28499999999999776</Translation>
+</Transform>
+</Instance>
+<Instance name="M5Screw14mm-6" uid="M5Screw14mm-6" entityUid="M5Screw14mm*:*91290A230">
+<Transform>
+<Rotation>-3.5960447867229518e-16 -7.6215369161031093e-16 -1 0.49838387390215683 0.86695646617017574 -8.3997514431029307e-16 0.86695646617017574 -0.49838387390215683 0</Rotation>
+<Translation>-0.013199999999999877 -0.010000000000009996 0.28499999999999787</Translation>
+</Transform>
+</Instance>
+<Instance name="M6Screw50mm-1" uid="M6Screw50mm-1" entityUid="M6Screw50mm*:*91290A205">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.13214999999999744 -6.9976902094285218e-15 -0.23199999999999987</Translation>
+</Transform>
+</Instance>
+<Instance name="M5Screw35mm-5" uid="M5Screw35mm-5" entityUid="M5Screw35mm*:*91290A195">
+<Transform>
+<Rotation>1.04744440165294e-14 0 -1 0 1 0 1 0 1.04744440165294e-14</Rotation>
+<Translation>-0.023700000000002334 0.0099999999999930596 -0.22999999999999984</Translation>
+</Transform>
+</Instance>
+<Instance name="M6Screw50mm-2" uid="M6Screw50mm-2" entityUid="M6Screw50mm*:*91290A205">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.023749999999999966 -6.8900929051989264e-15 -0.23200000000000001</Translation>
+</Transform>
+</Instance>
+<Instance name="M5Screw35mm-4" uid="M5Screw35mm-4" entityUid="M5Screw35mm*:*91290A195">
+<Transform>
+<Rotation>1.04744440165294e-14 0 -1 0 1 0 1 0 1.04744440165294e-14</Rotation>
+<Translation>-0.023700000000007149 -0.010000000000006948 -0.22999999999999984</Translation>
+</Transform>
+</Instance>
+<Instance name="Anchorblock-2" uid="Anchorblock-2" entityUid="Anchorblock*:*Default">
+<Transform>
+<Rotation>1.04744440165294e-14 0 -1 0 1 0 1 0 1.04744440165294e-14</Rotation>
+<Translation>-0.010000000000002387 -6.9425607537223897e-15 -0.22999999999999998</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.99607843137254903" g="0.87058823529411766" b="0.76078431372549016" a="1"/>
+<Diffuse r="0.99607843137254903" g="0.87058823529411766" b="0.76078431372549016" a="1"/>
+<Specular r="0.49803921568627452" g="0.43529411764705883" b="0.38039215686274508" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Coincident name="Coincident2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-1</Uid>
+</InstancePath>
+<Position>-0.0027999999999999969 0.018500000000000003 0.29999999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-2</Uid>
+</InstancePath>
+<Position>-0.0027999999999999969 0.018500000000000003 0.29999999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Distance name="Distance12">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-1</Uid>
+</InstancePath>
+<Position>0.0036999999999999256 0.0087977552237255389 0.29999999999999999</Position>
+<Axis>1 -3.6072593331457051e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>beltholder-1</Uid>
+</InstancePath>
+<Position>0 0 -0.59999999999999998</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Coincident name="Coincident5">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-1</Uid>
+</InstancePath>
+<Position>-0.0027999999999999969 0.018500000000000003 0.29999999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>beltholder-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Distance name="Distance13">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-2</Uid>
+</InstancePath>
+<Position>-0.0036999999999999256 0.0087977552237255372 0.29999999999999999</Position>
+<Axis>-1 -3.6072593331457051e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>beltholder-1</Uid>
+</InstancePath>
+<Position>0.10000000000000001 0.0049999999999999992 -0.59999999999999998</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Coincident name="Coincident8">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-1</Uid>
+</InstancePath>
+<Position>-0.0079999999999999793 -0.020000000000000115 0.29999999999999999</Position>
+<Axis>0 -1 -3.6739403974420594e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SingestackedFrame-1</Uid>
+</InstancePath>
+<Position>-0.0028247342341821686 0.0083195805092829145 -0.021999999999999978</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Distance name="Distance3">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SingestackedFrame-1</Uid>
+</InstancePath>
+<Position>0 -0.0036000000000000199 0.021999999999999992</Position>
+<Axis>7.3139367849266861e-16 -1.0000000000000002 -3.6739403974420475e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-1</Uid>
+</InstancePath>
+<Position>-0.0027999999999999969 0.018500000000000003 0.29999999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Distance>
+<Coincident name="Coincident10">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-2</Uid>
+</InstancePath>
+<Position>0.0079999999999999793 -0.020000000000000111 0.29999999999999999</Position>
+<Axis>7.3818020254332519e-16 -1 -3.6739403974420594e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SingestackedFrame-3</Uid>
+</InstancePath>
+<Position>-0.0028247342341821552 0.0083195805092830533 0.021999999999999992</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Distance name="Distance4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SingestackedFrame-3</Uid>
+</InstancePath>
+<Position>0 0.0035999999999998256 0.021999999999999995</Position>
+<Axis>-6.2037137603015414e-16 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-2</Uid>
+</InstancePath>
+<Position>-0.0027999999999999969 0.018500000000000003 0.29999999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Distance>
+<Coincident name="Coincident12">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-1</Uid>
+</InstancePath>
+<Position>-0.0079999999999999793 -0.020000000000000115 0.29999999999999999</Position>
+<Axis>0 -1 -3.6739403974420594e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SingestackedFrame-2</Uid>
+</InstancePath>
+<Position>-0.0028247342341821669 0.0083195805092830255 0.022000000000000002</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Distance name="Distance5">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SingestackedFrame-2</Uid>
+</InstancePath>
+<Position>0 -0.0036000000000000199 0.021999999999999995</Position>
+<Axis>6.2037137603015296e-16 -1 -3.6739403974420495e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-1</Uid>
+</InstancePath>
+<Position>-0.0027999999999999969 0.018500000000000003 -0.29999999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Distance>
+<Coincident name="Coincident14">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-2</Uid>
+</InstancePath>
+<Position>-0.0079999999999999793 -0.020000000000000115 0.29999999999999999</Position>
+<Axis>0 -1 -3.6739403974420594e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SingestackedFrame-4</Uid>
+</InstancePath>
+<Position>-0.0028247342341821691 0.0083195805092828867 -0.021999999999999978</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Distance name="Distance6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SingestackedFrame-4</Uid>
+</InstancePath>
+<Position>0 -0.0036000000000000199 0.021999999999999992</Position>
+<Axis>6.7588252726141098e-16 -1 -3.6739403974420495e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-2</Uid>
+</InstancePath>
+<Position>-0.0027999999999999969 0.018500000000000003 -0.29999999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Concentric1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Steel Ball Bearing-1</Uid>
+</InstancePath>
+<Position>0 0 0.0035000000000000031</Position>
+<Axis>0 -1.8369701987210208e-16 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>BearingBracket-1</Uid>
+</InstancePath>
+<Position>0 0.089999999999999969 0</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident15">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Steel Ball Bearing-1</Uid>
+</InstancePath>
+<Position>0 0.010649999999999882 0.0034999999999999754</Position>
+<Axis>0 -1.8369701987210208e-16 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>BearingBracket-1</Uid>
+</InstancePath>
+<Position>0 0.089999999999999969 0</Position>
+<Axis>0 0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident16">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>BearingBracket-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Steel Ball Bearing-2</Uid>
+</InstancePath>
+<Position>0 0.010649999999999882 -0.0035000000000000031</Position>
+<Axis>0 1.8369701987210208e-16 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric2">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>BearingBracket-1</Uid>
+</InstancePath>
+<Position>0 0.089999999999999969 0</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Steel Ball Bearing-2</Uid>
+</InstancePath>
+<Position>0 0 0.0035000000000000014</Position>
+<Axis>0 -1.8369701987210208e-16 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric3">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Shaft-1</Uid>
+</InstancePath>
+<Position>0 0.20000000000000001 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Steel Ball Bearing-2</Uid>
+</InstancePath>
+<Position>0 0 -0.0030412689398770787</Position>
+<Axis>0 1.8369701987210198e-16 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric4">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>FrameBracket-1</Uid>
+</InstancePath>
+<Position>-0.034999999999999976 0 0.0075000000000000067</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Steel Ball Bearing-3</Uid>
+</InstancePath>
+<Position>0 0 0.0035000000000000031</Position>
+<Axis>0 -1.8369701987210174e-16 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident18">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>FrameBracket-1</Uid>
+</InstancePath>
+<Position>-0.034999999999999976 0 0.0075000000000000067</Position>
+<Axis>0 0 0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Steel Ball Bearing-3</Uid>
+</InstancePath>
+<Position>-1.1102230246251565e-16 0.010649999999999882 0.0034999999999999476</Position>
+<Axis>0 -1.8369701987210174e-16 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident21">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-2</Uid>
+</InstancePath>
+<Position>0.010000000000000009 1.6898274729206823e-16 0.29999999999999999</Position>
+<Axis>1 1.1910041775363292e-14 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>FrameBracket-1</Uid>
+</InstancePath>
+<Position>-0.034999999999999976 0 0</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident22">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-2</Uid>
+</InstancePath>
+<Position>0.0079999999999999793 0.020000000000000004 0.29999999999999999</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>FrameBracket-1</Uid>
+</InstancePath>
+<Position>0.034999999999999976 -0.01999999999999998 0.0075000000000000067</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Distance name="Distance7">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>FrameBracket-1</Uid>
+</InstancePath>
+<Position>-0.034999999999999976 0 0.0075000000000000067</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-2</Uid>
+</InstancePath>
+<Position>-0.0027999999999999969 0.018500000000000003 -0.29999999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Concentric5">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Shaft-1</Uid>
+</InstancePath>
+<Position>0 0.20000000000000001 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Steel Ball Bearing-3</Uid>
+</InstancePath>
+<Position>0 0 0.0035000000000000031</Position>
+<Axis>0 -1.8369701987210174e-16 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident23">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-1</Uid>
+</InstancePath>
+<Position>-0.010000000000000009 1.6653345369377348e-16 0.29999999999999999</Position>
+<Axis>-1 1.1392213872086628e-14 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>FrameBracket-2</Uid>
+</InstancePath>
+<Position>-0.035000000000000031 0 0</Position>
+<Axis>0 0 -0.99999999999999967</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident24">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-1</Uid>
+</InstancePath>
+<Position>-0.0079999999999999793 0.02 0.29999999999999999</Position>
+<Axis>-7.3818020254332519e-16 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>FrameBracket-2</Uid>
+</InstancePath>
+<Position>0.034999999999999976 0.020000000000000011 0.0074999999999999945</Position>
+<Axis>-1.5662074811676317e-16 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Distance name="Distance8">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>FrameBracket-2</Uid>
+</InstancePath>
+<Position>-0.035000000000000031 0 0.0074999999999999945</Position>
+<Axis>0 0 -0.99999999999999967</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-1</Uid>
+</InstancePath>
+<Position>-0.0027999999999999969 0.018500000000000003 -0.29999999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Distance>
+<Coincident name="Coincident25">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>FrameBracket-2</Uid>
+</InstancePath>
+<Position>-0.035000000000000031 0 0.0074999999999999945</Position>
+<Axis>0 0 0.99999999999999967</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Steel Ball Bearing-4</Uid>
+</InstancePath>
+<Position>0 0.010649999999999826 0.0034999999999999736</Position>
+<Axis>0 -1.8369701987210267e-16 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric7">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>FrameBracket-1</Uid>
+</InstancePath>
+<Position>0.010000000000000009 0.0099999999999999933 0.0075000000000000067</Position>
+<Axis>0 0 0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>M5Screw14mm-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0095000000000000084</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric8">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>FrameBracket-1</Uid>
+</InstancePath>
+<Position>0.010000000000000009 -0.0099999999999999777 0.0074999999999999789</Position>
+<Axis>0 0 0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>M5Screw14mm-2</Uid>
+</InstancePath>
+<Position>0 0 -0.0095000000000000084</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric9">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>FrameBracket-2</Uid>
+</InstancePath>
+<Position>0.010000000000000009 0.009999999999999995 0.0074999999999999945</Position>
+<Axis>0 0 0.99999999999999967</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>M5Screw14mm-4</Uid>
+</InstancePath>
+<Position>0 0 -0.0095000000000000084</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric10">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>FrameBracket-2</Uid>
+</InstancePath>
+<Position>0.010000000000000009 -0.0099999999999999829 0.007499999999999991</Position>
+<Axis>0 0 0.99999999999999967</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>M5Screw14mm-3</Uid>
+</InstancePath>
+<Position>0 0 -0.0095000000000000084</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident32">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-1</Uid>
+</InstancePath>
+<Position>-0.010000000000000009 1.6653345369377348e-16 0.29999999999999999</Position>
+<Axis>-1 1.1392213872086628e-14 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Anchorblock-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident34">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>FrameBracket-2</Uid>
+</InstancePath>
+<Position>0.034999999999999976 0.020000000000000011 0.0074999999999999945</Position>
+<Axis>-1.5662074811676317e-16 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Anchorblock-2</Uid>
+</InstancePath>
+<Position>0.020000000000000129 0.020000000000000004 0.027499999999999972</Position>
+<Axis>-4.3368086899420182e-16 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident36">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-2</Uid>
+</InstancePath>
+<Position>0.010000000000000009 1.6898274729206823e-16 0.29999999999999999</Position>
+<Axis>1 1.1910041775363292e-14 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Anchorblock-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident37">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>FrameBracket-1</Uid>
+</InstancePath>
+<Position>0.034999999999999976 -0.01999999999999998 0.0075000000000000067</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Anchorblock-1</Uid>
+</InstancePath>
+<Position>0.020000000000000129 0.020000000000000004 0.027499999999999941</Position>
+<Axis>-4.3368086899420182e-16 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric11">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Anchorblock-1</Uid>
+</InstancePath>
+<Position>-0.019999999999999907 0 0.013749999999999984</Position>
+<Axis>1 1.7347234759768071e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>M6Screw50mm-1</Uid>
+</InstancePath>
+<Position>0 0 -0.028000000000000025</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident38">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Anchorblock-1</Uid>
+</InstancePath>
+<Position>-0.019999999999999907 0.019999999999999987 0.027499999999999969</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>M6Screw50mm-1</Uid>
+</InstancePath>
+<Position>0 0.0047249999999999966 0.021999999999999992</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident39">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>FrameBracket-1</Uid>
+</InstancePath>
+<Position>0.034999999999999976 -0.01999999999999998 0.0075000000000000067</Position>
+<Axis>0.99999999999999989 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>M6Screw50mm-1</Uid>
+</InstancePath>
+<Position>0 0.0023504809471616688 -0.028000000000000025</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric12">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Anchorblock-2</Uid>
+</InstancePath>
+<Position>0.020000000000000129 0 0.013749999999999957</Position>
+<Axis>1 1.7347234759768071e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>M6Screw50mm-2</Uid>
+</InstancePath>
+<Position>0 0 -0.027999999999999997</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident40">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Anchorblock-2</Uid>
+</InstancePath>
+<Position>0.020000000000000129 0.020000000000000004 0.027499999999999972</Position>
+<Axis>1 1.7347234759768073e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>M6Screw50mm-2</Uid>
+</InstancePath>
+<Position>0 0.0047249999999999966 0.021999999999999992</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident42">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>FrameBracket-2</Uid>
+</InstancePath>
+<Position>0.034999999999999976 -0.01999999999999999 0.007499999999999991</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>M6Screw50mm-2</Uid>
+</InstancePath>
+<Position>0 0.0023504809471616688 -0.027999999999999997</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident48">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-1</Uid>
+</InstancePath>
+<Position>-0.010000000000000009 1.6653345369377348e-16 0.29999999999999999</Position>
+<Axis>-1 1.1392213872086628e-14 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>FrameBracket-3</Uid>
+</InstancePath>
+<Position>-0.035000000000000031 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident49">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-1</Uid>
+</InstancePath>
+<Position>-0.0079999999999999793 0.02 0.29999999999999999</Position>
+<Axis>-7.3818020254332519e-16 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>FrameBracket-3</Uid>
+</InstancePath>
+<Position>0.034999999999999976 -0.019999999999999987 0.007499999999999998</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Distance name="Distance11">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>FrameBracket-3</Uid>
+</InstancePath>
+<Position>-0.034999999999999976 0 0.0075000000000000015</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-1</Uid>
+</InstancePath>
+<Position>-0.0027999999999999969 0.018500000000000003 0.29999999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Concentric18">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>FrameBracket-3</Uid>
+</InstancePath>
+<Position>-0.034999999999999976 0 0.0075000000000000015</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Steel Ball Bearing-5</Uid>
+</InstancePath>
+<Position>0 0 0.0035000000000000031</Position>
+<Axis>0 -1.8369701987210218e-16 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident50">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>FrameBracket-3</Uid>
+</InstancePath>
+<Position>-0.034999999999999976 0 0.0075000000000000015</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Steel Ball Bearing-5</Uid>
+</InstancePath>
+<Position>0 0.010649999999999882 0.0034999999999999754</Position>
+<Axis>0 -1.8369701987210218e-16 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric20">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>FrameBracket-3</Uid>
+</InstancePath>
+<Position>0.010000000000000009 0.0099999999999999967 0.0075000000000000015</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>M5Screw14mm-6</Uid>
+</InstancePath>
+<Position>0 0 -0.0095000000000000084</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric21">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>FrameBracket-3</Uid>
+</InstancePath>
+<Position>0.010000000000000009 -0.0099999999999999811 0.0075000000000000015</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>M5Screw14mm-5</Uid>
+</InstancePath>
+<Position>0 0 -0.0095000000000000084</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident51">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-1</Uid>
+</InstancePath>
+<Position>-0.0036999999999999256 0.0087977552237255372 0.29999999999999999</Position>
+<Axis>-1 -3.6072593331457051e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>M5Screw14mm-5</Uid>
+</InstancePath>
+<Position>0 0.0019803847577293532 -0.0094999999999998974</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident52">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-1</Uid>
+</InstancePath>
+<Position>-0.0036999999999999256 -0.0087977552237256482 0.29999999999999999</Position>
+<Axis>-1 3.6072593331457051e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>M5Screw14mm-6</Uid>
+</InstancePath>
+<Position>0 0.0019803847577293809 -0.0094999999999998974</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident53">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-2</Uid>
+</InstancePath>
+<Position>0.0036999999999999256 0.0087977552237255389 0.29999999999999999</Position>
+<Axis>1 -3.6072593331457051e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>M5Screw14mm-2</Uid>
+</InstancePath>
+<Position>0 0.0019803847577293532 -0.0094999999999999113</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident54">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-2</Uid>
+</InstancePath>
+<Position>0.0036999999999999256 -0.0087977552237256465 0.29999999999999999</Position>
+<Axis>1 3.6072593331457051e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>M5Screw14mm-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0095000000000000084</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident55">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-1</Uid>
+</InstancePath>
+<Position>-0.0036999999999999256 0.0087977552237255372 0.29999999999999999</Position>
+<Axis>-1 -3.6072593331457051e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>M5Screw14mm-4</Uid>
+</InstancePath>
+<Position>0 0.0019803847577293532 -0.0094999999999998974</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident56">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-1</Uid>
+</InstancePath>
+<Position>-0.0036999999999999256 -0.0087977552237256482 0.29999999999999999</Position>
+<Axis>-1 3.6072593331457051e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>M5Screw14mm-3</Uid>
+</InstancePath>
+<Position>0 0.0019803847577293532 -0.0094999999999998974</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric22">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Anchorblock-1</Uid>
+</InstancePath>
+<Position>1.1102230246251565e-16 -0.010000000000000007 0.027499999999999997</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>M5Screw35mm-2</Uid>
+</InstancePath>
+<Position>1.1102230246251565e-16 0 -0.020000000000000018</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric23">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Anchorblock-1</Uid>
+</InstancePath>
+<Position>1.1102230246251565e-16 0.01 0.027499999999999997</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>M5Screw35mm-3</Uid>
+</InstancePath>
+<Position>1.1102230246251565e-16 0 -0.020000000000000032</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident59">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-2</Uid>
+</InstancePath>
+<Position>0.0036999999999999256 0.0087977552237255389 0.29999999999999999</Position>
+<Axis>1 -3.6072593331457051e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>M5Screw35mm-3</Uid>
+</InstancePath>
+<Position>1.1102230246251565e-16 0.0019803847577293376 -0.020000000000000032</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident60">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-2</Uid>
+</InstancePath>
+<Position>0.0036999999999999256 -0.0087977552237256465 0.29999999999999999</Position>
+<Axis>1 3.6072593331457051e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>M5Screw35mm-2</Uid>
+</InstancePath>
+<Position>1.1102230246251565e-16 0.0019803847577293393 -0.020000000000000018</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric24">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Anchorblock-2</Uid>
+</InstancePath>
+<Position>1.1102230246251565e-16 -0.010000000000000007 0.0275</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>M5Screw35mm-4</Uid>
+</InstancePath>
+<Position>1.1102230246251565e-16 0 -0.020000000000000018</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric25">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Anchorblock-2</Uid>
+</InstancePath>
+<Position>1.1102230246251565e-16 0.01 0.0275</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>M5Screw35mm-5</Uid>
+</InstancePath>
+<Position>1.1102230246251565e-16 0 -0.020000000000000018</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident61">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-1</Uid>
+</InstancePath>
+<Position>-0.0036999999999999256 -0.0087977552237256482 0.29999999999999999</Position>
+<Axis>-1 3.6072593331457051e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>M5Screw35mm-4</Uid>
+</InstancePath>
+<Position>1.1102230246251565e-16 0 -0.020000000000000018</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident62">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-1</Uid>
+</InstancePath>
+<Position>-0.0036999999999999256 0.0087977552237255372 0.29999999999999999</Position>
+<Axis>-1 -3.6072593331457051e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>M5Screw35mm-5</Uid>
+</InstancePath>
+<Position>1.1102230246251565e-16 0.0019803847577293393 -0.020000000000000018</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident63">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-2</Uid>
+</InstancePath>
+<Position>0.010000000000000009 1.6898274729206823e-16 0.29999999999999999</Position>
+<Axis>1 1.1910041775363292e-14 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>StepperBracket-1</Uid>
+</InstancePath>
+<Position>0 0 0.0075000000000000205</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric26">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>StepperBracket-1</Uid>
+</InstancePath>
+<Position>0.012500112981276623 0.0025000000000000074 0.0075000000000000067</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Steel Ball Bearing-6</Uid>
+</InstancePath>
+<Position>0 0 0.0035000000000000031</Position>
+<Axis>0 -1.8369701987210193e-16 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident69">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>StepperBracket-1</Uid>
+</InstancePath>
+<Position>0 0 0.0075000000000000205</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Steel Ball Bearing-6</Uid>
+</InstancePath>
+<Position>0 0.010649999999999882 0.0034999999999999754</Position>
+<Axis>0 -1.8369701987210193e-16 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric28">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>BearingBracket-2</Uid>
+</InstancePath>
+<Position>0 0.089999999999999969 0</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Steel Ball Bearing-7</Uid>
+</InstancePath>
+<Position>0 0 0.0035000000000000031</Position>
+<Axis>0 -1.8369701987210262e-16 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident70">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>BearingBracket-2</Uid>
+</InstancePath>
+<Position>0 0.089999999999999969 0</Position>
+<Axis>0 0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Steel Ball Bearing-7</Uid>
+</InstancePath>
+<Position>0 0.010649999999999882 0.0034999999999999736</Position>
+<Axis>0 -1.8369701987210262e-16 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric29">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>BearingBracket-2</Uid>
+</InstancePath>
+<Position>0 0.089999999999999969 0</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Steel Ball Bearing-8</Uid>
+</InstancePath>
+<Position>0 0 0.0035000000000000031</Position>
+<Axis>0 -1.8369701987210233e-16 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident71">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>BearingBracket-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Steel Ball Bearing-8</Uid>
+</InstancePath>
+<Position>0 0.0043500000000000205 -0.003500000000000017</Position>
+<Axis>0 1.8369701987210225e-16 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric30">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Shaft-2</Uid>
+</InstancePath>
+<Position>0 0.20000000000000004 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Steel Ball Bearing-7</Uid>
+</InstancePath>
+<Position>0 0 0.0035000000000000031</Position>
+<Axis>0 -1.8369701987210262e-16 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric31">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Steel Ball Bearing-5</Uid>
+</InstancePath>
+<Position>0 0 0.0035000000000000031</Position>
+<Axis>0 -1.8369701987210211e-16 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Shaft-2</Uid>
+</InstancePath>
+<Position>0 0.20000000000000004 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident73">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-2</Uid>
+</InstancePath>
+<Position>0.0079999999999999793 0.020000000000000004 0.29999999999999999</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>StepperBracket-1</Uid>
+</InstancePath>
+<Position>0.035000112981276643 0.022499999999999999 0.0075000000000000067</Position>
+<Axis>-1.486901036780768e-16 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric32">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Steel Ball Bearing-6</Uid>
+</InstancePath>
+<Position>0 0 0.0035000000000000031</Position>
+<Axis>0 -1.8369701987210183e-16 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Shaft-2</Uid>
+</InstancePath>
+<Position>0 0.20000000000000004 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric34">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>StepperBracket-1</Uid>
+</InstancePath>
+<Position>-0.025000112981276579 0.012500000000000008 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>M5Screw14mm-7</Uid>
+</InstancePath>
+<Position>0 0 -0.0095000000000000084</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident77">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-2</Uid>
+</InstancePath>
+<Position>0.0036999999999999256 0.0087977552237255389 0.29999999999999999</Position>
+<Axis>1 -3.6072593331457051e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>M5Screw14mm-7</Uid>
+</InstancePath>
+<Position>0 0.0019803847577293532 -0.0094999999999998974</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric36">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>StepperBracket-1</Uid>
+</InstancePath>
+<Position>-0.025000112981276579 -0.0075000000000000032 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>M5Screw14mm-8</Uid>
+</InstancePath>
+<Position>0 0 -0.0095000000000000084</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident79">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>DoublestackedFrame-2</Uid>
+</InstancePath>
+<Position>0.0036999999999999256 -0.0087977552237256465 0.29999999999999999</Position>
+<Axis>1 3.6072593331457051e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>M5Screw14mm-8</Uid>
+</InstancePath>
+<Position>0 0.0019803847577293532 -0.0094999999999998974</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric38">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Shaft-2</Uid>
+</InstancePath>
+<Position>0 0.20000000000000004 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Steel Ball Bearing-8</Uid>
+</InstancePath>
+<Position>0 0 0.0035000000000000031</Position>
+<Axis>0 -1.8369701987210225e-16 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric39">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>6627T64_Stepper Motor-1</Uid>
+</InstancePath>
+<Position>0 0 0.024000000000000007</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Shaft-2</Uid>
+</InstancePath>
+<Position>0 0.05279999999999771 1.1102230246251565e-16</Position>
+<Axis>2.0418332500252565e-16 -1 -4.8529659898343266e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Parallel name="Parallel4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>StepperBracket-1</Uid>
+</InstancePath>
+<Position>0.035000112981276643 0.022499999999999999 0.0075000000000000067</Position>
+<Axis>-1.486901036780768e-16 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>6627T64_Stepper Motor-1</Uid>
+</InstancePath>
+<Position>0.013897551605948466 -0.0212 -0.0075691999999999982</Position>
+<Axis>2.4964447338109697e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Coincident name="Coincident84">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>StepperBracket-1</Uid>
+</InstancePath>
+<Position>0 0 0.0075000000000000205</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>M3Screw12mm-3</Uid>
+</InstancePath>
+<Position>0 0.0026000000000000016 0.004500000000000004</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident85">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>StepperBracket-1</Uid>
+</InstancePath>
+<Position>0 0 0.0075000000000000205</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>M3Screw12mm-1</Uid>
+</InstancePath>
+<Position>0 0.0026000000000000016 0.004500000000000004</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident86">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>StepperBracket-1</Uid>
+</InstancePath>
+<Position>0 0 0.0075000000000000205</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>M3Screw12mm-2</Uid>
+</InstancePath>
+<Position>0 0.0026000000000000016 0.004500000000000004</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident87">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>StepperBracket-1</Uid>
+</InstancePath>
+<Position>0 0 0.0075000000000000205</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>M3Screw12mm-4</Uid>
+</InstancePath>
+<Position>0 0.0025999999999999999 0.004500000000000004</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident88">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>beltholder-1</Uid>
+</InstancePath>
+<Position>0 0.0049999999999999992 -0.59999999999999998</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Belt-1</Uid>
+</InstancePath>
+<Position>-0.33000000000000002 0.012500000000000084 0.080000000000000002</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric46">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>StepperBracket-1</Uid>
+</InstancePath>
+<Position>0.028000112981276637 0.018000000000000016 0.0075000000000000067</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>M3Screw12mm-4</Uid>
+</InstancePath>
+<Position>2.2204460492503131e-16 0 -0.0074999999999999928</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric47">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>StepperBracket-1</Uid>
+</InstancePath>
+<Position>-0.0029998870187233351 0.018000000000000019 0.0075000000000000205</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>M3Screw12mm-2</Uid>
+</InstancePath>
+<Position>2.7755575615628914e-16 0 -0.0074999999999999789</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric48">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>StepperBracket-1</Uid>
+</InstancePath>
+<Position>-0.0029998870187233351 -0.012999999999999999 0.0075000000000000205</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>M3Screw12mm-3</Uid>
+</InstancePath>
+<Position>2.7755575615628914e-16 0 -0.0074999999999999789</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric49">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>StepperBracket-1</Uid>
+</InstancePath>
+<Position>0.028000112981276581 -0.012999999999999996 0.0075000000000000067</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>M3Screw12mm-1</Uid>
+</InstancePath>
+<Position>2.7755575615628914e-16 0 -0.0075000000000000205</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric56">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>BearingBracket-2</Uid>
+</InstancePath>
+<Position>0 0.089999999999999969 0</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Belt-1</Uid>
+</InstancePath>
+<Position>-0.33000000000000002 0 0.080000000000000002</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="6627T64_Stepper Motor" uid="6627T64_Stepper Motor*:*6627T64" version="5015">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="6627T64_Stepper Motor.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.045949703271856518</Mass>
+<CenterOfMass>-1.0607818658415336e-08 0.0033515664775802534 -0.012837010709641541</CenterOfMass>
+<Inertia>4.2147241699086142e-05 9.016953268126006e-06 4.5232889168562459e-05 1.3914921002556605e-06 -8.9296537268832994e-12 -1.7518498023860788e-12</Inertia>
+</MassProperties>
+<GeometryFile name="6627T64_Stepper Motor_6627T64_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.22588235294117645" g="0.22588235294117645" b="0.22588235294117645" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Anchorblock" uid="Anchorblock*:*Default" version="159">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Anchorblock.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.041789104170036187</Mass>
+<CenterOfMass>0 0 0.01375</CenterOfMass>
+<Inertia>8.4567567126114982e-06 8.4164972027557453e-06 1.1468625190711115e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Anchorblock_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89411764705882346" g="0.89411764705882346" b="0.89411764705882346" a="1"/>
+<Diffuse r="0.89411764705882346" g="0.89411764705882346" b="0.89411764705882346" a="1"/>
+<Specular r="0.44705882352941173" g="0.44705882352941173" b="0.44705882352941173" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="BearingBracket" uid="BearingBracket*:*Default" version="112">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="BearingBracket.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0099667026935136155</Mass>
+<CenterOfMass>0 0.045000000000000019 0</CenterOfMass>
+<Inertia>7.4183413985658411e-06 1.3816341608883248e-06 7.418341398565842e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="BearingBracket_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89411764705882346" g="0.89411764705882346" b="0.89411764705882346" a="1"/>
+<Diffuse r="0.89411764705882346" g="0.89411764705882346" b="0.89411764705882346" a="1"/>
+<Specular r="0.44705882352941173" g="0.44705882352941173" b="0.44705882352941173" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Belt" uid="Belt*:*Default" version="123">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Belt.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.11213451271946211</Mass>
+<CenterOfMass>-6.4006377178723485e-15 0 0.039999999999999855</CenterOfMass>
+<Inertia>7.8213256589264435e-05 0.0046409568917389924 0.0045995600014274969 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Belt_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89411764705882346" g="0.89411764705882346" b="0.89411764705882346" a="1"/>
+<Diffuse r="0.89411764705882346" g="0.89411764705882346" b="0.89411764705882346" a="1"/>
+<Specular r="0.44705882352941173" g="0.44705882352941173" b="0.44705882352941173" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DoublestackedFrame" uid="DoublestackedFrame*:*5537T031" version="1150">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="DoublestackedFrame.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.19951896330494531</Mass>
+<CenterOfMass>0 0 0</CenterOfMass>
+<Inertia>0.0060166741502492146 0.0059940795614766068 3.9615913429137144e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DoublestackedFrame_5537T031_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.22588235294117645" g="0.22588235294117645" b="0.22588235294117645" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="FrameBracket" uid="FrameBracket*:*Default" version="160">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="FrameBracket.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.038566869335977909</Mass>
+<CenterOfMass>0.0075688274485149996 0 0.0094543779748741067</CenterOfMass>
+<Inertia>7.6975693760541911e-06 2.4743390605930098e-05 2.7622655224237444e-05 0 -3.8348579613267004e-06 0</Inertia>
+</MassProperties>
+<GeometryFile name="FrameBracket_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89411764705882346" g="0.89411764705882346" b="0.89411764705882346" a="1"/>
+<Diffuse r="0.89411764705882346" g="0.89411764705882346" b="0.89411764705882346" a="1"/>
+<Specular r="0.44705882352941173" g="0.44705882352941173" b="0.44705882352941173" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="M3Screw12mm" uid="M3Screw12mm*:*91290A117" version="2163">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="M3Screw12mm.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00012652352621039288</Mass>
+<CenterOfMass>-4.6825494005370062e-07 -4.8274729720619799e-07 0.0019377809900341704</CenterOfMass>
+<Inertia>2.7195469959373041e-09 2.7195866037836108e-09 3.0995388282295398e-10 -5.0266871274150279e-13 1.9168430158280448e-13 2.7210236914928739e-13</Inertia>
+</MassProperties>
+<GeometryFile name="M3Screw12mm_91290A117_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.22588235294117645" g="0.22588235294117645" b="0.22588235294117645" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="M5Screw14mm" uid="M5Screw14mm*:*91290A230" version="2185">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="M5Screw14mm.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00044306199087037031</Mass>
+<CenterOfMass>1.1135621605757448e-06 -9.4734980545836749e-07 0.0021791029187250778</CenterOfMass>
+<Inertia>1.5128768684506573e-08 1.512854266953427e-08 2.8891621982741723e-09 -3.0354584079503984e-12 -8.8415656880999546e-14 -4.2816849872325721e-14</Inertia>
+</MassProperties>
+<GeometryFile name="M5Screw14mm_91290A230_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.22588235294117645" g="0.22588235294117645" b="0.22588235294117645" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="M5Screw35mm" uid="M5Screw35mm*:*91290A195" version="1838">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="M5Screw35mm.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00079877662695083918</Mass>
+<CenterOfMass>5.7891945906051007e-07 -2.6894604134965056e-07 0.0035651544296293873</CenterOfMass>
+<Inertia>1.2521525184325029e-07 1.2521489002750154e-07 3.8206211401853762e-09 -6.9428360773810003e-12 -3.3463479721125696e-12 1.7270988754944026e-13</Inertia>
+</MassProperties>
+<GeometryFile name="M5Screw35mm_91290A195_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.22588235294117645" g="0.22588235294117645" b="0.22588235294117645" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="M6Screw50mm" uid="M6Screw50mm*:*91290A205" version="1838">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="M6Screw50mm.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0015284465664476357</Mass>
+<CenterOfMass>1.3380433102364046e-07 -6.3316748307721354e-07 0.0042356860183298834</CenterOfMass>
+<Inertia>4.6673847131162016e-07 4.6674027014077336e-07 9.6143217993420317e-09 -4.3675186187695874e-11 9.0281317357903611e-12 7.5939262798666935e-13</Inertia>
+</MassProperties>
+<GeometryFile name="M6Screw50mm_91290A205_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.22588235294117645" g="0.22588235294117645" b="0.22588235294117645" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Shaft" uid="Shaft*:*Default" version="130">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Shaft.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.010053096491487336</Mass>
+<CenterOfMass>0 0.099999999999999992 0</CenterOfMass>
+<Inertia>3.3550534024257055e-05 8.0424771931898724e-08 3.3550534024257055e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Shaft_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89411764705882346" g="0.89411764705882346" b="0.89411764705882346" a="1"/>
+<Diffuse r="0.89411764705882346" g="0.89411764705882346" b="0.89411764705882346" a="1"/>
+<Specular r="0.44705882352941173" g="0.44705882352941173" b="0.44705882352941173" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="SingestackedFrame" uid="SingestackedFrame*:*5537T044" version="837">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="SingestackedFrame.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0079908889813003359</Mass>
+<CenterOfMass>0 0 0</CenterOfMass>
+<Inertia>1.6140672177872184e-06 1.6140672177872224e-06 6.497409242748676e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="SingestackedFrame_5537T044_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.22588235294117645" g="0.22588235294117645" b="0.22588235294117645" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Steel Ball Bearing" uid="Steel Ball Bearing*:*5972K91" version="1810">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Steel Ball Bearing.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0017080386430846832</Mass>
+<CenterOfMass>-1.5056853405514881e-13 -2.7653049142312207e-13 1.5079024096059863e-12</CenterOfMass>
+<Inertia>6.7915397834625947e-08 6.7915397837482592e-08 1.2237850960256823e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Steel Ball Bearing_5972K91_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.22588235294117645" g="0.22588235294117645" b="0.22588235294117645" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="StepperBracket" uid="StepperBracket*:*Default" version="143">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="StepperBracket.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.020251663130669034</Mass>
+<CenterOfMass>-0.0015368277090934558 -0.00041643655510248992 0.0037500000000000012</CenterOfMass>
+<Inertia>3.8860210192178482e-06 8.8873105071639277e-06 1.2583472184531753e-05 0 0 9.0769179573608883e-08</Inertia>
+</MassProperties>
+<GeometryFile name="StepperBracket_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89411764705882346" g="0.89411764705882346" b="0.89411764705882346" a="1"/>
+<Diffuse r="0.89411764705882346" g="0.89411764705882346" b="0.89411764705882346" a="1"/>
+<Specular r="0.44705882352941173" g="0.44705882352941173" b="0.44705882352941173" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="beltholder" uid="beltholder*:*Default" version="115">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="beltholder.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.3000000000000001</Mass>
+<CenterOfMass>0.049999999999999996 0.0024999999999999996 -0.29999999999999999</CenterOfMass>
+<Inertia>0.0090006249999999999 0.0092499999999999995 0.00025062499999999998 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="beltholder_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89411764705882346" g="0.89411764705882346" b="0.89411764705882346" a="1"/>
+<Diffuse r="0.89411764705882346" g="0.89411764705882346" b="0.89411764705882346" a="1"/>
+<Specular r="0.44705882352941173" g="0.44705882352941173" b="0.44705882352941173" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
